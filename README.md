@@ -1,16 +1,18 @@
-##To-Do-List-Project
-A repo for student of tech karo to implement JavaScript in a practical way
+## To-Do List:
+- A web app for To-Do List, based on making important everyday task.
 
-#Reference
-This is an exercise from Recurship Training Material for frontend
+## Technologies used:
+- HTML5
+- CSS3
+- JavaScript(for coding algorithms)
 
-#Objective
-This exercise is designed to test out your application architecture skills. Now that you have some command over JS, you will use the knowledge to create a simple frontend application. You will learn to create and manage objects, refactor and play with local storage. This is also where you should extensively use the Chrome Dev tools to help you move through the exercise.
+## Software needed to run this app:
+- Node.js v14.17.0
+- VSCode (as an editor)
+- Browser (preferably Chrome)
 
-#Setup 
-- Setup the codebase.
-- Scafold the code usign Yeoman
-- Initialize the git repo
-- Create a new git repo on GitHub
-- Invite your mentor to this new repo
-
+## How to run code in this repo:
+- First of all go to the main folder.
+- In the main folder you will find index.html file.
+- Click on index.html to open it on browser
+- Now you can interact with the app on browser
