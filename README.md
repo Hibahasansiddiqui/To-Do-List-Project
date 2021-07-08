@@ -1,4 +1,4 @@
-#To-Do-List-Project
+##To-Do-List-Project
 A repo for student of tech karo to implement JavaScript in a practical way
 
 #Reference
@@ -9,7 +9,7 @@ This exercise is designed to test out your application architecture skills. Now 
 
 #Setup 
 - Setup the codebase.
-- Scafold the code usign Yeoman [skip]
+- Scafold the code usign Yeoman
 - Initialize the git repo
 - Create a new git repo on GitHub
 - Invite your mentor to this new repo
